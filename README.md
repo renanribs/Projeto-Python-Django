@@ -6,6 +6,4 @@ Created a responsive task manager project using Bootsrap and integrated with dat
 
 -Login Page -Registration Page -Task List -Create New Tasks -Edit and Delete Tasks
 
-Deployed the application using Heroku. Link to online application:
-
- https://bit.ly/3aYatEA
+Deployed the application using Heroku. Link to online application: https://bit.ly/3aYatEA
