@@ -1,6 +1,6 @@
 # Projeto-Python-Django
 
-Project created in the Python & Django week of Treina Web
+## Project created in the Python & Django week of Treina Web
 
 Created a responsive task manager project using Bootsrap and integrated with database where it has:
 
