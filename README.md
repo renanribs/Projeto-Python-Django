@@ -1,13 +1,11 @@
 # Projeto-Python-Django
-Projeto criado na semana Python &amp; Django da Treina Web
 
-Criado um projeto de gerenciador de tarefas responsivo utilizando Bootsrap e integrado com banco de dados onde possui:
+Project created in the Python & Django week of Treina Web
 
--Página de Login
--Página de Cadastro
--Lista de Tarefas
--Criar novas tarefas
--Editar e excluir tarefas
+Created a responsive task manager project using Bootsrap and integrated with database where it has:
 
-Feito deploy da aplicação utilizando Heroku.
-Link para aplicação online: https://bit.ly/3aYatEA
+-Login Page -Registration Page -Task List -Create New Tasks -Edit and Delete Tasks
+
+Deployed the application using Heroku. Link to online application:
+
+ https://bit.ly/3aYatEA
